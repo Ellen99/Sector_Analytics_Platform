@@ -1,0 +1,5 @@
+FRONTEND_ORIGIN=http://localhost:3000
+SECTOR_JSON_PATH=./app/data/sectors.json
+MAIL_TO_FOR_OPEN_ALEX_API=your-email@example.com
+FMP_API_KEY=your_fmp_api_key_here
+OPEN_AI_API_KEY=your_open_ai_api_key_here

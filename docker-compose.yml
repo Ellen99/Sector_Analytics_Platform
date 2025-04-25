@@ -1,0 +1,28 @@
+services:
+  server:
+    build:
+      context: .
+      dockerfile: Dockerfile.server
+    ports:
+      - "5050:5000"
+    volumes:
+      - ./server:/app
+    networks:
+      - default
+
+  client:
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./client:/app
+      - /app/node_modules
+    working_dir: /app
+    command: npm start
+    networks:
+      - default
+networks:
+  default:
+    driver: bridge

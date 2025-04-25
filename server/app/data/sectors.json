@@ -1,0 +1,156 @@
+{
+  "Basic Materials": {
+    "description": "Companies involved in the discovery, extraction, and processing of raw materials, including mining, forestry, and chemical production.",
+    "keywords": [
+      "materials science",
+      "metallurgical engineering",
+      "extractive metallurgy",
+      "chemical processing",
+      "polymer engineering",
+      "ceramic engineering",
+      "composite materials",
+      "nanomaterials",
+      "superalloys",
+      "biomaterials"
+    ]
+  },
+  "Communication Services": {
+    "description": "Companies that provide communication services using fixed-line networks or those that provide wireless access and services.",
+    "keywords": [
+      "telecommunications engineering",
+      "media studies",
+      "broadcast engineering",
+      "digital communication systems",
+      "interactive media",
+      "wireless communication",
+      "internet services",
+      "wireless networks"
+    ]
+  },
+  "Consumer Cyclical": {
+    "description": "Companies that sell non-essential goods and services, which tend to be more sensitive to economic cycles.",
+    "keywords": [
+      "consumer behavior analysis",
+      "retail management",
+      "automotive industry",
+      "fashion industry",
+      "luxury goods market",
+      "e-commerce platforms",
+      "travel industry trends",
+      "entertainment industry analysis"
+    ]
+  },
+  "Consumer Defensive": {
+    "description": "Companies that produce or sell essential products and services, such as food, beverages, and household items, which are less sensitive to economic cycles.",
+    "keywords": [
+      "consumer goods industry",
+      "grocery retailing",
+      "beverage production",
+      "household products manufacturing",
+      "personal care products",
+      "food industry analysis",
+      "tobacco products market",
+      "essential consumer items"
+
+    ]
+  },
+  "Energy": {
+    "description": "Companies involved in the production and distribution of energy, including fossil fuels and renewable energy sources.",
+    "keywords": [
+      "energy production",
+      "renewable energy technologies",
+      "oil extraction",
+      "natural gas industry",
+      "nuclear power generation",
+      "solar energy systems",
+      "wind energy solutions",
+      "hydropower plants",
+      "energy storage systems",
+      "fossil fuel industry"
+    ]
+  },
+  "Financial Services": {
+    "description": "Firms and institutions that provide financial services to commercial and retail customers, including banking, investment, and insurance.",
+    "keywords": [
+      "financial services industry",
+      "banking sector",
+      "financial markets analysis",
+      "investment strategies",
+      "financial technology (fintech)",
+      "asset management firms",
+      "insurance services",
+      "digital banking"
+    ]
+  },
+  "Healthcare": {
+    "description": "Companies that provide medical services, manufacture medical equipment or drugs, and facilitate the provision of healthcare to patients.",
+    "keywords": [
+      "health informatics",
+      "medical services industry",
+      "healthcare systems",
+      "pharmaceutical manufacturing",
+      "biotechnology research",
+      "public health initiatives",
+      "medical device development",
+      "clinical research studies",
+      "telemedicine services",
+      "health informatics"
+    ]
+  },
+  "Industrials": {
+    "description": "Companies that produce capital goods used in manufacturing and construction, including aerospace, defense, and machinery.",
+    "keywords": [
+      "manufacturing industry",
+      "construction engineering",
+      "logistics management",
+      "industrial engineering",
+      "supply chain optimization",
+      "aerospace industry",
+      "defense manufacturing",
+      "infrastructure development"
+    ]
+  },
+  "Real Estate": {
+    "description": "Companies involved in real estate development, operations, and services, including residential, commercial, and industrial properties.",
+    "keywords": [
+      "real estate development",
+      "housing market analysis",
+      "property management",
+      "urban development planning",
+      "commercial real estate",
+      "residential real estate",
+      "property investment strategies",
+      "real estate market trends"
+
+    ]
+  },
+  "Technology": {
+    "description": "Companies engaged in the research, development, and distribution of technologically based goods and services.",
+    "keywords": [
+      "information technology",
+      "computer science research",
+      "software development",
+      "hardware engineering",
+      "information systems management",
+      "artificial intelligence applications",
+      "machine learning algorithms",
+      "cybersecurity measures",
+      "cloud computing services",
+      "data analytics techniques"
+    ]
+  },
+  "Utilities": {
+    "description": "Companies that provide basic amenities, such as water, sewage services, electricity, dams, and natural gas.",
+    "keywords": [
+      "utility services",
+      "electric power distribution",
+      "water supply management",
+      "sewage treatment",
+      "waste management systems",
+      "natural gas distribution",
+      "renewable utilities",
+      "energy distribution networks",
+      "public utility infrastructure"
+    ]
+  }
+}
