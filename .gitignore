@@ -3,3 +3,4 @@ client/node_modules/*
 *__pycache__
 *.env
 ghamut_env
+server/app/data_collection/publications_data.py
