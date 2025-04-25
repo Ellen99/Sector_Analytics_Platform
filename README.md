@@ -15,6 +15,8 @@ Key features:
 - AI-powered interpretation of statistical results
 - Interactive charts with normalized comparison view
 
+📑 **[View the Slide Deck Presentation](https://docs.google.com/presentation/d/1cb2riVjTUBQ676ZrgFVhqvLLefezSmPfdBt6O-uZtJU)**
+
 ## System Architecture
 
 The application follows a client-server architecture:
